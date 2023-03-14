@@ -1,0 +1,11 @@
+.terraform.lock.hcl
+certificate.tf
+database.tf
+global-ip.tf
+ingress.tf
+nodes.tf
+project.tf
+sensitive-info.tfvars
+secrets.tf
+terraform.tfstate
+terraform.tfstate.backup
